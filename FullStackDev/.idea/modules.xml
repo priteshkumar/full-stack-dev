@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo-components-beans-autowiring/demo-components-beans-autowiring.iml" filepath="$PROJECT_DIR$/demo-components-beans-autowiring/demo-components-beans-autowiring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-configuration-classes/demo-configuration-classes.iml" filepath="$PROJECT_DIR$/demo-configuration-classes/demo-configuration-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-first-web-app/demo-first-web-app.iml" filepath="$PROJECT_DIR$/demo-first-web-app/demo-first-web-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-full-stack-app/demo-full-stack-app.iml" filepath="$PROJECT_DIR$/demo-full-stack-app/demo-full-stack-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-rest-services/demo-rest-services.iml" filepath="$PROJECT_DIR$/demo-rest-services/demo-rest-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-spring-data/demo-spring-data.iml" filepath="$PROJECT_DIR$/demo-spring-data/demo-spring-data.iml" />
+    </modules>
+  </component>
+</project>
